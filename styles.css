@@ -1,0 +1,26 @@
+body{
+    background-color:#e5e6e8;
+    
+}
+p{
+  font-family: monospace;
+  font-size: 20px;
+  color:#605c06;
+  text-align: center;
+  
+ 
+}
+h1{
+    color:#025625;
+    font-family:Arial Rounded MT Bold;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.grow-shadow:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+      transform: scale(1.2);
+  box-shadow: 10px 15px 7px #C7C7C7;
+}
